@@ -1,0 +1,91 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color: black;
+}
+.top-container{
+    background-color:black;
+    position: relative;
+    padding-top: 20px;
+}
+
+.middle-container{
+    background-color: black;
+
+}
+
+.bottom-container{
+    background-color: lightslategrey;
+    padding: 50px 0 20px;
+}
+
+h1{
+    color: red;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 100px;
+    
+}
+h2 {
+    color: blanchedalmond;
+    margin-top: 0;
+    font-family: 'Montserrat Subrayada', sans-serif;
+    font-weight: normal;
+}
+
+h3{
+    color: turquoise;
+    font-family: 'Montserrat Subrayada', sans-serif;
+}
+p{
+    color: blanchedalmond;
+    line-height: 1.5;
+}
+hr{
+    border:dotted blanchedalmond 6px;
+    border-bottom: none;
+    width: 4%;
+}
+
+.alluarjun{
+position: relative;
+}
+.background-image {
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100px;
+    background-size: cover;
+}
+.Para {
+    color: blanchedalmond;
+}
+.alluarjun{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.aaintro{
+    width: 25%;
+    float: left;
+    margin-right:  30px;
+}
+.aacinema{
+    width: 25%;
+    float: left;
+    margin-right:  30px;
+}
+.xr{
+    color: black;
+    font-size: 0.75rem;
+}
+a{
+    color: wheat;
+    margin: 10px  20px;
+    text-decoration: none;
+}
+a:hover {
+    color: black;
+}
